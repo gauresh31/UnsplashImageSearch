@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Unsplash</string>
+    <string name="img_path">image_path</string>
+    <string name="str_disp_page">display_page</string>
+    <string name="spl_resp">splash_response</string>
+    <string name="client_key">FZpIl7feLseFHwV4DScQqiaVULO54C7GRBiqlmDrxdI</string>
+    <string name="search_text">search_text</string>
+    <string name="str_search_disp_page">search_disp_page</string>
+    <string name="spl_search_resp">search_resp</string>
+    <string name="param_urls">urls</string>
+    <string name="param_cover_photo">cover_photo</string>
+    <string name="param_small">small</string>
+    <string name="param_full">full</string>
+    <string name="param_regular">regular</string>
+    <string name="not_appl">N/A</string>
+    <string name="str_no">No</string>
+    <string name="str_yes">Yes</string>
+</resources>
